@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba de Hernry
+Este proyecto es una prueba para clonar
